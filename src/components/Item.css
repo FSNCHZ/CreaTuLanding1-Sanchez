@@ -1,0 +1,9 @@
+.item-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    width: 20%;
+    height: 30%;
+    background-color: aquamarine;
+}

@@ -1,7 +1,7 @@
 function CartWidget(){
     return (
-        <div>
-            <p>CartWidget</p>
+        <div className="cart">
+            <p>Carrito</p>
         </div>
     )
 }
