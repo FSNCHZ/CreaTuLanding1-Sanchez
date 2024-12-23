@@ -1,0 +1,26 @@
+.filters-container{
+    width: 60%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filter-button{
+    display: flex;
+    align-items: center;
+    height: 30%;
+    border-style: none;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.items-container{
+    height: 85%;
+    width: 80%;
+    gap: 5%;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+}
