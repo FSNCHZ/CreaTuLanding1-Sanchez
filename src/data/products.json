@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Remera",
+        "category": "remeras",
+        "price": 2000,
+        "stock": 20,
+        "description": "Remera de algodón suave y transpirable, perfecta para uso diario. Diseño clásico, cómodo y versátil.",
+        "img": "https://img.freepik.com/fotos-premium/remera-sus-derivados_1056055-948.jpg?w=740"
+    },
+    {
+        "id": 2,
+        "title": "Pantalon",
+        "category": "pantalones",
+        "price": 5000,
+        "stock": 10,
+        "description": "Pantalón de jean resistente y versátil, con ajuste cómodo y moderno. Ideal para cualquier ocasión.",
+        "img": "https://www.grupooxicas.com/3082-thickbox_default/pantalon-jean-far-west-indigo-14-onzas-talles-del-38-al-60.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Gorro",
+        "category": "gorros",
+        "price": 1500,
+        "stock": 14,
+        "description": "Gorro de lana cálido y suave, ideal para el frío. Diseño cómodo y ajustable para cualquier estilo.",
+        "img": "https://acdn.mitiendanube.com/stores/118/808/products/gorro-lana-navy-1-600x6001-95534563b43732b56e16552576060728-480-0.png"
+    },
+    {
+        "id": 4,
+        "title": "Medias",
+        "category": "medias",
+        "price": 800,
+        "stock": 30,
+        "description": "Medias suaves y cómodas, hechas con materiales de calidad. Ajuste perfecto y transpirables para uso diario.",
+        "img": "https://acdn.mitiendanube.com/stores/001/157/106/products/cfe0ac9d-b3b1-4c45-9334-d7a90146b3a4-afadc9812aa71d567217182610206860-1024-1024.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Campera",
+        "category": "camperas",
+        "price": 3000,
+        "stock": 5,
+        "description": "Campera abrigada y resistente, con diseño moderno y cómodo. Ideal para protegerte del frío con estilo.",
+        "img": "https://acdn.mitiendanube.com/stores/807/624/products/men-down-grey-68-4-11-06945325b8b652356a16832457501992-1024-1024.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Pantalon",
+        "category": "pantalones",
+        "price": 4500,
+        "stock": 15,
+        "description": "Pantalón de jogging cómodo y flexible, ideal para deporte o uso diario. Tejido suave y ajuste perfecto.",
+        "img": "https://celadasa.vtexassets.com/arquivos/ids/236214-800-auto?v=638261577743170000&width=800&height=auto&aspect=true" 
+    },
+    {
+        "id": 7,
+        "title": "Remera",
+        "category": "remeras",
+        "price": 1000,
+        "stock": 50,
+        "description": "Remera clásica de algodón, cómoda y versátil. Diseño atemporal ideal para cualquier ocasión.",
+        "img": "https://acdn.mitiendanube.com/stores/002/215/740/products/mockup-basica-negra-b989fa8f1daf238e2f17123227639037-1024-1024.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Medias",
+        "category": "medias",
+        "price": 500,
+        "stock": 60,
+        "description": "Medias de nylon elegantes y resistentes, con ajuste suave y cómodo. Ideales para un look sofisticado y ligero.",
+        "img": "https://d368r8jqz0fwvm.cloudfront.net/2804-large_default/medias-de-trekking-mtg004.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Campera",
+        "category": "camperas",
+        "price": 8000,
+        "stock": 10,
+        "description": "Campera polar abrigada y liviana, con textura suave y cómodo ajuste. Ideal para el frío y actividades al aire libre.",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_708780-MLA50722043459_072022-O.webp"
+    },
+    {
+        "id": 10,
+        "title": "Gorro",
+        "category": "gorros",
+        "price": 1600,
+        "stock": 18,
+        "description": "Gorro de lana cálido y confortable, con diseño clásico y ajuste perfecto. Ideal para el frío y cualquier ocasión.",
+        "img": "https://lavaindumentaria.com.ar/wp-content/uploads/2021/03/sin-titulo-2_0010__mg_0027-min.jpg"
+    }
+]

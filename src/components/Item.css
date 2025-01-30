@@ -1,9 +1,31 @@
-.item-card{
+.item{
+    border-radius: 5px;
+    margin: 10px;
+    width: 40%;
     display: flex;
-    justify-content: center;
+    box-shadow: 1px 3px 5px -1px rgba(0,0,0,0.34);
+}
+
+.item-info{
+    flex: 1;
+    width: 50%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: end;
+}
+
+.item-info p{
+    height: 20%;
+    margin: 0;
+}
+
+.item-detail-btn{
+    margin: 5% 16.5% 5% 16.5%;
+    width: 60%;
+    height: 20%;
+    display: flex;
     align-items: center;
-    border-radius: 10px;
-    width: 20%;
-    height: 30%;
-    background-color: aquamarine;
+    justify-content: center;
+    background-color: rgb(53, 155, 180);
+    border-radius: 30px;
 }
