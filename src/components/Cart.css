@@ -1,0 +1,51 @@
+.cart-container{
+    gap: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-flow: row wrap;
+}
+
+.final-price{
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cart-btn-container{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    height: 13%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cart-btn-container button{
+    width: 30%;
+    border: none;
+    height: 50%;
+    border-radius: 30px;
+    background-color: rgb(223, 223, 223);
+}
+
+.cart-btn-container a {
+    width: 30%;
+    height: 50%;
+}
+
+.cart-btn-container a button {
+    height: 100%;
+    border-radius: 30px;
+    width: 100%;
+    background-color: rgb(0, 240, 80);
+}
+
+.empty{
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
